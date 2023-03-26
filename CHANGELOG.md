@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-03-26)
+
+
+### Features
+
+* repo init ([ec9acb0](https://github.com/EarthShakers/bibigpt/commit/ec9acb037a330e8a275282d38a4077c8689deac6))
+
 ## [2.2.0](https://github.com/JimmyLv/BibiGPT/compare/v2.1.0...v2.2.0) (2023-03-23)
 
 
